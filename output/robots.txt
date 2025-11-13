@@ -1,4 +1,0 @@
-Sitemap: https://cocallag.github.io/bclose/sitemapindex.xml
-
-User-Agent: *
-Host: cocallag.github.io
