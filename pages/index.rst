@@ -13,11 +13,11 @@
 
 
 
-This website provides information about your apartment. 
+This website provides information about your home. 
 
-To view an online version of the visitor booklet, 
+To view an online version of the visitor booklet, `click here </documents/booklet.pdf>`_.
 
-We hope that you enjoy your time as much as we enjoyed our time there.
+We hope that you enjoy your time in the apartment as much as we enjoyed our time there.
 
 
 |br|
