@@ -1,4 +1,4 @@
-.. title: Information for Visitors
+.. title: Information for Residents
 .. slug: index
 .. date: 2024-01-28 19:03:02 UTC
 .. tags: 
