@@ -1,6 +1,6 @@
-.. title: Merry Bank Information for Visitors
+.. title: Information for Residents
 .. slug: index
-.. date: 2024-01-28 19:03:02 UTC
+.. date: 2025-11-14 19:03:02 UTC
 .. tags: 
 .. category: 
 .. link: 
