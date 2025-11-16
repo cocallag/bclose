@@ -16,6 +16,7 @@
 You can view and/or download user manuals for the different applicances using the links below.
 
 
+`Dehumidifier </documents/dehumidifier.pdf>`_ |br|
 `Fridge Freezer </documents/fridge_freezer.pdf>`_ |br|
 `Hob Hood Extractor Fan </documents/extractor_hood.pdf>`_ |br|
 `Kettle </documents/kettle.pdf>`_ |br|
